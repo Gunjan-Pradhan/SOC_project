@@ -1,6 +1,6 @@
 PROBLEM STATEMENT: Design and Implementation of a CPU-Based Data Communication System with Addressable Module.
 
-This project is a simulation of a simple CPU-based communication system where the CPU talks to memory, I/O devices, and peripherals — all using a shared data bus. Each module knows when to respond, thanks to an address decoder that makes sure only the right component is active at a time. It’s designed to be modular, easy to understand, and educational.
+This project is a simulation of a simple CPU-based communication system where the CPU talks to memory, I/O devices, and peripherals all using a shared data bus. Each module knows when to respond, thanks to an address decoder that makes sure only the right component is active at a time. It’s designed to be modular, easy to understand, and educational.
 
 
 THE MAIN MODULES:
